@@ -1,8 +1,8 @@
 # For a description of these parameters, please visit the theme wiki.
 # https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
-baseurl                 = "https://example.com/"
+baseurl                 = "https://secureth.ink"
 DefaultContentLanguage  = "en"
-title                   = "Hugo Future Imperfect Slim"
+title                   = "Allen Baranov's Security Thoughts"
 theme                   = "hugo-future-imperfect-slim"
 publishDir		= "docs"
 paginate                = 3
@@ -32,8 +32,8 @@ disableLanguages        = []
   hideEmptyStats        = false
 
   [params.meta]
-    description         = "A theme by HTML5 UP, ported by Julio Pescador. Slimmed and enhanced by Patrick Collins. Multilingual by StatnMap. Powered by Hugo."
-    author              = "HTML5UP and Hugo"
+    description         = "A blog for Allen Baranov to share his thoughts about information security, devops, compliance and pretty much anything else that comes to mind"
+    author              = "Allen Baranov"
     favicon             = false
     svg                 = true
     faviconVersion      = "1"
