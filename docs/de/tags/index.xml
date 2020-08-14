@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Allen Baranov&#39;s Security Thoughts</title>
-    <link>https://secureth.ink/de/tags/</link>
+    <link>https://secure-th.ink/de/tags/</link>
     <description>Recent content in Tags on Allen Baranov&#39;s Security Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     
-	<atom:link href="https://secureth.ink/de/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://secure-th.ink/de/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
