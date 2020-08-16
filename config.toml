@@ -28,7 +28,7 @@ disableLanguages        = []
   readingTime           = true
   imageStretch          = ""
   removeBlur            = false
-  socialShare           = ["twitter", "facebook", "reddit", "linkedin", "pinterest", "email"]
+  socialShare           = ["twitter", "linkedin", "email"]
   hideEmptyStats        = false
 
   [params.meta]
@@ -41,15 +41,15 @@ disableLanguages        = []
     iOSColor            = "#ffffff"
 
   [params.header]
-    navbarTitle         = "Future Imperfect"
+    navbarTitle         = "Security Thoughts"
     dynamicTitles       = true
     searchMenu          = true
     shareMenu           = true
     languageMenu        = true
 
   [params.intro]
-    header                = "Hugo Future Imperfect Slim"
-    paragraph             = "Another fine, responsive site template by <a href='http://html5up.net'>HTML5 UP</a>."
+    header                = "Allen Baranov Security Thoughts Blog"
+    paragraph             = "Thoughts and musings by Allen Baranov on Infosec and, well... other stuff"
     rssIntro              = true
     socialIntro           = true
     hideWhenSingleColumn  = false
@@ -59,10 +59,10 @@ disableLanguages        = []
       src                 = "img/main/logo.jpg"
       shape               = "circle"
       width               = ""
-      alt                 = "Hugo Future Imperfect Slim"
+      alt                 = "Security Thoughts"
 
   [params.sidebar]
-    about               = "This theme was developed for Hugo static site generator."
+    about               = "About?"
     postAmount          = 5
     categories          = true
     categoriesByCount   = true
