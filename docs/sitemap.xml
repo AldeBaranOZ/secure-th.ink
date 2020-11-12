@@ -3,6 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://secure-th.ink/tags/bizsec/</loc>
+    <lastmod>2020-11-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://secure-th.ink/blog/</loc>
+    <lastmod>2020-11-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://secure-th.ink/tags/blog/</loc>
+    <lastmod>2020-11-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://secure-th.ink/tags/future/</loc>
+    <lastmod>2020-11-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://secure-th.ink/blog/introduction/</loc>
+    <lastmod>2020-11-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://secure-th.ink/tags/meta/</loc>
+    <lastmod>2020-11-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://secure-th.ink/tags/</loc>
+    <lastmod>2020-11-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://secure-th.ink/about/</loc>
     <lastmod>2020-11-05T00:00:00+00:00</lastmod>
   </url>
@@ -13,73 +48,7 @@
   </url>
   
   <url>
-    <loc>https://secure-th.ink/blog/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://secure-th.ink/categories/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://secure-th.ink/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://secure-th.ink/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://secure-th.ink/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://secure-th.ink/blog/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://secure-th.ink/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://secure-th.ink/tags/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://secure-th.ink/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://secure-th.ink/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://secure-th.ink/blog/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://secure-th.ink/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://secure-th.ink/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://secure-th.ink/blog/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>

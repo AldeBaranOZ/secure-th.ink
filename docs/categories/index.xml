@@ -6,28 +6,9 @@
     <description>Recent content in Categories on Allen Baranov&#39;s Security Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://secure-th.ink/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>syntax</title>
-      <link>https://secure-th.ink/categories/syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://secure-th.ink/categories/syntax/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>themes</title>
-      <link>https://secure-th.ink/categories/themes/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://secure-th.ink/categories/themes/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

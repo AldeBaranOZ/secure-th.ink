@@ -6,62 +6,44 @@
     <description>Recent content in Tags on Allen Baranov&#39;s Security Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://secure-th.ink/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>css</title>
-      <link>https://secure-th.ink/tags/css/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>bizsec</title>
+      <link>https://secure-th.ink/tags/bizsec/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://secure-th.ink/tags/css/</guid>
+      <guid>https://secure-th.ink/tags/bizsec/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>html</title>
-      <link>https://secure-th.ink/tags/html/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>blog</title>
+      <link>https://secure-th.ink/tags/blog/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://secure-th.ink/tags/html/</guid>
+      <guid>https://secure-th.ink/tags/blog/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>markdown</title>
-      <link>https://secure-th.ink/tags/markdown/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>future</title>
+      <link>https://secure-th.ink/tags/future/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://secure-th.ink/tags/markdown/</guid>
+      <guid>https://secure-th.ink/tags/future/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>themes</title>
-      <link>https://secure-th.ink/tags/themes/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>meta</title>
+      <link>https://secure-th.ink/tags/meta/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://secure-th.ink/tags/themes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>text</title>
-      <link>https://secure-th.ink/tags/text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://secure-th.ink/tags/text/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>emoji</title>
-      <link>https://secure-th.ink/tags/emoji/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://secure-th.ink/tags/emoji/</guid>
+      <guid>https://secure-th.ink/tags/meta/</guid>
       <description></description>
     </item>
     
