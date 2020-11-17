@@ -65,13 +65,13 @@ But DevOps is even more than just that - it is also a new way of doing everythin
 > "More is more than more. It is different."
 > - Kevin Kelly
 
-If you change from a 6 monthly deployment cycle to a 3 monthly cycle then not much has changed really. What if you work out how to deploy more quickly? Maybe monthly? Not a whole lot there either. What about a few deploments every day? Yes. Now you are talking about something totally different. You can not afford to have a CAB meeting each time you want to deploy if you do it hourly. You can't afford to have firewall rule reviews. You can't afford to have a process where you add users to the server and have their access authorised by two people. You are in something different now. This is DevOps. 
+If you change from a 6 monthly deployment cycle to a 3 monthly cycle then not much has changed really. What if you work out how to deploy more quickly? Maybe monthly? Not a whole lot there either. What about a few deployments every day? Yes. Now you are talking about something totally different. You can not afford to have a CAB meeting each time you want to deploy if you do it hourly. You can't afford to have firewall rule reviews. You can't afford to have a process where you add users to the server and have their access authorised by two people. You are in something different now. This is DevOps. 
 
-Does security deserve to be slotted into DevOps to make DevSecOps? What about tesing? What about business decisions? DevSecBusQAOps? Fine but you are missing the whole point. The point is this: the person performing the change on the systems is accountable for EVERYTHING. Because that is the ONLY way this works. Everyone else is there to support them. Which feels weird for Security but it is where we are. 
+Does security deserve to be slotted into DevOps to make DevSecOps? What about testing? What about business decisions? DevSecBusQAOps? Fine but you are missing the whole point. The point is this: the person performing the change on the systems is accountable for EVERYTHING. Because that is the ONLY way this works. Everyone else is there to support them. Which feels weird for Security but it is where we are. 
 
 (I seem to have taken a bit of a deep dive into "devsecops" which was really not my intention - I may take this out and move it into an article of its own)
 
-Most people I have come across who talk about DevSecOps mean it to be code assessment - either dynamic or static and usually automated either in the IDE or in the pipeline. Which is fine but it missed out on the "ops" bit - how do you use this method of rapid deployment to also make sure that patches are current, that libraries are current, that code is maintained. That code is clear and concice. That servers are deployed with minimum access and minimum services runnings. That incidents can be quickly attended to and logs are meaningful. That complexity is removed. All of these things can be benefits of DevOps but not if you only concentrate on code analysis. 
+Most people I have come across who talk about DevSecOps mean it to be code assessment - either dynamic or static and usually automated either in the IDE or in the pipeline. Which is fine but it missed out on the "ops" bit - how do you use this method of rapid deployment to also make sure that patches are current, that libraries are current, that code is maintained. That code is clear and concise. That servers are deployed with minimum access and minimum services runnings. That incidents can be quickly attended to and logs are meaningful. That complexity is removed. All of these things can be benefits of DevOps but not if you only concentrate on code analysis. 
 
 But I don't like the term "DevSecOps" anyway so the "devsecops = code analysis" people can have it. 
 
@@ -81,7 +81,7 @@ Well... there needs to be a better terminology in place for the benefits derived
 
 ### Resiliency
 
-What about resiliency? I have heard that term thrown around and usually by people I really respect but it doesn't quite work for me. It feels like it is only really looking at the availability of a system and not the intgrity and confidentiality. It also sounds very negative. 
+What about resiliency? I have heard that term thrown around and usually by people I really respect but it doesn't quite work for me. It feels like it is only really looking at the availability of a system and not the integrity and confidentiality. It also sounds very negative. 
 
 ### What do you suggest Mr Smart Guy?
 
